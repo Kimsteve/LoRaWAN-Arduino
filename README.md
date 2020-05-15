@@ -6,7 +6,7 @@ Sensors
 DFRobot pH and EC sensors
 https://www.dfrobot.com/product-1797.html
 
-###LMIC library
+### LMIC library
 https://github.com/matthijskooijman/arduino-lmic
 
 
